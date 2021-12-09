@@ -9,7 +9,7 @@
 * [Questions](#questions)
 
 ## Description
-w\Write back end code for an e-commerce website. The main goal was to write models for a product, category, tag and product tag. Then to write all the CRUD method routes. After writing all the routes and models we were then tasked to link our server.js.
+Write back end code for an e-commerce website. The main goal was to write models for a product, category, tag and product tag. Then to write all the CRUD method routes. After writing all the routes and models we were then tasked to link our server.js.
 
 
 ## Installation
